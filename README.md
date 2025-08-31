@@ -59,7 +59,8 @@ The script will:
 
 After submission, a screenshot is saved:
 
-form_submission.png
+![Form Submission Screenshot](form_submission.png)
+
 ## 🧑‍💻 Technologies Used
 
 - Python
