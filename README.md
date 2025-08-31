@@ -26,5 +26,40 @@ Make sure you have the following installed:
 Install Selenium with pip:
 ```bash
 pip install selenium
+```
+---
+## 📂 Project Structure
+```Form-Filler-Automation/
+│── form_filler.py        # Main automation script
+│── form_submission.png   # Screenshot of successful submission (generated after run)
+│── README.md             # Project documentation
+```
+---
+## ▶️ How to Run
+
+Clone this repository:
+
+git clone https://github.com/sweekrithishetty28/Form-Filler-Automation.git
+cd Form-Filler-Automation
+
+
+Run the script:
+
+python form_filler.py
+
+
+The script will:
+
+Open Chrome browser
+
+Fill and submit the form
+
+Save a screenshot as form_submission.png
+
+📸 Example Output
+
+After submission, a screenshot is saved:
+
+form_submission.png
 
 
