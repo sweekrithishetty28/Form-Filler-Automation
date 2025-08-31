@@ -60,5 +60,16 @@ The script will:
 After submission, a screenshot is saved:
 
 form_submission.png
+## 🧑‍💻 Technologies Used
+
+- Python
+
+- Selenium WebDriver
+
+- ChromeDriver
+
+## 📌 Author
+
+Sweekrithi Shetty
 
 
