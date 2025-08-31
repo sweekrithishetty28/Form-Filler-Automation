@@ -38,15 +38,14 @@ pip install selenium
 ## ▶️ How to Run
 
 Clone this repository:
-
+```
 git clone https://github.com/sweekrithishetty28/Form-Filler-Automation.git
 cd Form-Filler-Automation
-
-
+```
 Run the script:
-
+```
 python form_filler.py
-
+```
 
 The script will:
 
