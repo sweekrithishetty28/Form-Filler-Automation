@@ -49,13 +49,13 @@ python form_filler.py
 
 The script will:
 
-Open Chrome browser
+- Open Chrome browser
 
-Fill and submit the form
+- Fill and submit the form
 
-Save a screenshot as form_submission.png
+- Save a screenshot as form_submission.png
 
-📸 Example Output
+## 📸 Example Output
 
 After submission, a screenshot is saved:
 
